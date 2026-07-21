@@ -1,6 +1,6 @@
-# 💫 About Me
+#  About Me
 
-## 👋 Hi, I'm Shivam Tiwary
+##  Hello, I'm Shivam Tiwary
 
 🎓 **Master of Computer Applications (MCA)** Student at **Noida Institute of Engineering and Technology (NIET), Greater Noida**
 
