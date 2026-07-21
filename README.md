@@ -87,7 +87,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shivam-tiwary-6a1293397) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/shivam_tiwari33) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:shivamtiwaryniet@gmail.com)
 
 ---
-
+<!--
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Developer-Shivam-Tiwary&theme=tokyonight&show_icons=true&hide_border=true)
@@ -97,6 +97,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Shivam-Tiwary&theme=tokyonight&layout=compact&hide_border=true)
 
 ---
+-->
 <!--
 ## 🏆 GitHub Trophies
 
