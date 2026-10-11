@@ -14,7 +14,7 @@
 | [**Employee Payroll Management System**](https://github.com/Developer-Shivam-Tiwary/EmployeePayrollSystem) | Core Java payroll engine with full CRUD, automated salary calculations (HRA, DA, PF, Tax), and salary slip generation | Core Java + OOP |
 | [**Smart Assignment Tracker**](https://github.com/Developer-Shivam-Tiwary/smart_assignment-submission-tracker-and-management) | Assignment submission and deadline tracking system for academic workflows | Java + Systems |
 | [**Basic Calculator**](https://github.com/Developer-Shivam-Tiwary/basic-calculator) | Interactive web-based arithmetic calculator with responsive layout | JavaScript + Frontend |
-| [**Java Pattern & DSA Suite**](https://github.com/Developer-Shivam-Tiwary/Java_pattern) | Comprehensive repository of pattern algorithms and logic building in Java | Algorithms + Logic |
+<!---| [**Java Pattern & DSA Suite**](https://github.com/Developer-Shivam-Tiwary/Java_pattern) | Comprehensive repository of pattern algorithms and logic building in Java | Algorithms + Logic |-->
 
 <img src="./assets/id-dashboard.svg?v=1" width="100%" alt="Shivam's builder ID and public dashboard. 5 public repositories, 8.38 CGPA MCA, certified in Oracle Cloud & Infosys Springboard. Snapshot: 2026." />
 
