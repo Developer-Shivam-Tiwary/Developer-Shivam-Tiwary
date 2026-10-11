@@ -18,6 +18,17 @@
 
 <img src="./assets/id-dashboard.svg?v=1" width="100%" alt="Shivam's builder ID and public dashboard. 5 public repositories, 8.38 CGPA MCA, certified in Oracle Cloud & Infosys Springboard. Snapshot: 2026." />
 
+### Certifications & Credentials
+
+| Certification | Issuing Organization | Verification | Domain |
+| :--- | :--- | :--- | :--- |
+| **Oracle Cloud Infrastructure Foundations I** | Oracle | [View on LinkedIn](https://www.linkedin.com/in/shivamtiwarymca) | Cloud & Infrastructure |
+| **C Programming** | Infosys Springboard | [View on LinkedIn](https://www.linkedin.com/in/shivamtiwarymca) | Core Programming & Logic |
+| **Linux for Beginners** | Infosys Springboard | [View on LinkedIn](https://www.linkedin.com/in/shivamtiwarymca) | OS, Terminal & Systems |
+| **Design Thinking** | Infosys Springboard | [View on LinkedIn](https://www.linkedin.com/in/shivamtiwarymca) | Problem Solving & Strategy |
+| **Cybersecurity Fundamentals** | NIET, Greater Noida | [View on LinkedIn](https://www.linkedin.com/in/shivamtiwarymca) | Information Security |
+
+
 <img src="./assets/connect.svg?v=1" width="100%" alt="Let's build what's next. Connect on LinkedIn, explore GitHub repositories, solve on LeetCode, or reach out directly via email using the links below." />
 
 <p align="center">
