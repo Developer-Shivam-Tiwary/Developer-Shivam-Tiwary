@@ -1,1 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img"><title>Shivam Tiwary GitHub profile graphic</title><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070b16"/><stop offset="1" stop-color="#101a31"/></linearGradient><linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient><pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#55709c" opacity=".25"/></pattern></defs><style>text{font-family:Arial,Helvetica,sans-serif} .muted{fill:#9eabc4} .white{fill:#f4f6fb} .blue{fill:#247bff} .red{fill:#ff354f} .card{fill:#101a2d;stroke:#253653;stroke-width:1.5} @media(prefers-reduced-motion:reduce){.anim{display:none}}</style><rect width="100%" height="100%" rx="22" fill="url(#bg)"/><rect width="100%" height="100%" rx="22" fill="url(#dots)"/><rect x="0" y="0" width="100%" height="5" fill="url(#line)"/><text x="42" y="48" font-size="15" letter-spacing="3" class="blue">HELLO WORLD / DEVELOPER PROFILE</text><text x="42" y="118" font-size="47" font-weight="800" class="white">Hi, I'm Shivam Tiwary</text><text x="44" y="158" font-size="22" class="muted">MCA Student · Aspiring Full-Stack Java Developer</text><text x="44" y="198" font-size="17" class="white">Building practical applications, learning continuously, and solving problems with code.</text><rect x="44" y="226" width="210" height="36" rx="18" fill="#172b4b" stroke="#247bff"/><text x="62" y="249" font-size="14" class="white">Greater Noida, India</text><rect x="760" y="43" width="190" height="210" rx="24" fill="#0b1222" stroke="url(#line)" stroke-width="2"/><circle cx="855" cy="111" r="43" fill="#172b4b" stroke="#247bff" stroke-width="2"/><text x="855" y="124" text-anchor="middle" font-size="34" font-weight="800" class="white">ST</text><text x="855" y="179" text-anchor="middle" font-size="13" class="muted">PROFILE PORTRAIT</text><text x="855" y="201" text-anchor="middle" font-size="11" class="muted">https://avatars.githubusercontent.com/u/245594219?v=4</text><circle class="anim" cx="855" cy="111" r="49" fill="none" stroke="#ff354f" stroke-width="1.5" opacity=".8"><animate attributeName="r" values="49;56;49" dur="4s" repeatCount="indefinite"/></circle></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img">
+  <title>Shivam Tiwary GitHub profile graphic</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#070b16"/>
+      <stop offset="1" stop-color="#101a31"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#247bff"/>
+      <stop offset="1" stop-color="#ff354f"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#55709c" opacity=".25"/>
+    </pattern>
+    <clipPath id="avatarClip">
+      <circle cx="855" cy="111" r="43"/>
+    </clipPath>
+  </defs>
+  <style>
+    text{font-family:Arial,Helvetica,sans-serif}
+    .muted{fill:#9eabc4}
+    .white{fill:#f4f6fb}
+    .blue{fill:#247bff}
+    .red{fill:#ff354f}
+    .card{fill:#101a2d;stroke:#253653;stroke-width:1.5}
+    @media(prefers-reduced-motion:reduce){.anim{display:none}}
+  </style>
+  <rect width="100%" height="100%" rx="22" fill="url(#bg)"/>
+  <rect width="100%" height="100%" rx="22" fill="url(#dots)"/>
+  <rect x="0" y="0" width="100%" height="5" fill="url(#line)"/>
+  <text x="42" y="48" font-size="15" letter-spacing="3" class="blue">HELLO WORLD / DEVELOPER PROFILE</text>
+  <text x="42" y="118" font-size="47" font-weight="800" class="white">Hi, I'm Shivam Tiwary</text>
+  <text x="44" y="158" font-size="22" class="muted">MCA Student · Aspiring Full-Stack Java Developer</text>
+  <text x="44" y="198" font-size="17" class="white">Building practical applications, learning continuously, and solving problems with code.</text>
+  <rect x="44" y="226" width="210" height="36" rx="18" fill="#172b4b" stroke="#247bff"/>
+  <text x="62" y="249" font-size="14" class="white">Greater Noida, India</text>
+  <rect x="760" y="43" width="190" height="210" rx="24" fill="#0b1222" stroke="url(#line)" stroke-width="2"/>
+  <circle cx="855" cy="111" r="43" fill="#172b4b" stroke="#247bff" stroke-width="2"/>
+  <image
+    href="https://avatars.githubusercontent.com/u/245594219?v=4"
+    x="812" y="68"
+    width="86" height="86"
+    preserveAspectRatio="xMidYMid slice"
+    clip-path="url(#avatarClip)"
+  />
+  <text x="855" y="179" text-anchor="middle" font-size="13" class="muted">PROFILE PORTRAIT</text>
+  <text x="855" y="201" text-anchor="middle" font-size="11" class="muted"></text>
+  <circle class="anim" cx="855" cy="111" r="49" fill="none" stroke="#ff354f" stroke-width="1.5" opacity=".8">
+    <animate attributeName="r" values="49;56;49" dur="4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
