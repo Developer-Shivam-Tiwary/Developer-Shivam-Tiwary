@@ -12,7 +12,7 @@
 | Project | What it does | Focus |
 | :--- | :--- | :--- |
 | [**Employee Payroll Management System**](https://github.com/Developer-Shivam-Tiwary/EmployeePayrollSystem) | Core Java payroll engine with full CRUD, automated salary calculations (HRA, DA, PF, Tax), and salary slip generation | Core Java + OOP |
-| [**Smart Assignment Tracker**](https://github.com/Developer-Shivam-Tiwary/smart_assignment-submission-tracker-and-management) | Assignment submission and deadline tracking system for academic workflows | Java + Systems |
+| [**Number Guessing Game**](https://github.com/Developer-Shivam-Tiwary/java-number-guessing-game) | A simple Java CLI-based Number Guessing Game built to practice problem-solving, logical thinking, random number generation, loops, conditional statements, and user input handling. | Core Java + Basic Logic |
 | [**Basic Calculator**](https://github.com/Developer-Shivam-Tiwary/basic-calculator) | Interactive web-based arithmetic calculator with responsive layout | JavaScript + Frontend |
 <!---| [**Java Pattern & DSA Suite**](https://github.com/Developer-Shivam-Tiwary/Java_pattern) | Comprehensive repository of pattern algorithms and logic building in Java | Algorithms + Logic |-->
 
